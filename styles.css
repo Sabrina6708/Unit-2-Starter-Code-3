@@ -1,0 +1,54 @@
+ body {
+     font-family: 'Arial';
+     font-size: 22px;
+ }
+
+ /* The code on lines 3-7 makes the background of the header black and the text of the title of the webpage white. Change this to match what you want for your website! */
+ header {
+     background-color: #727979;
+     color: #FFFFFF;
+     padding: 80px 100px;
+     background-image: url("https://miro.medium.com/v2/resize:fit:1400/1*cb-PJeX-5RnhfLKW3zvnWQ.png");
+     background-size: 300px 300px;
+     font-size: 30px;
+ }
+
+ .section1 {
+     background: #EAECEE;
+     color: #774AF2;
+     padding: 100px 80px;
+     border: 20px dotted #D2B4DE;
+
+
+ }
+
+
+ .section2 {
+     background: #EAECEE;
+     color: #914FB5;
+     padding: 100px 80px;
+     border: 20px dotted #D2B4DE;
+     margin: 2px;
+     font-size: 20px;
+ }
+
+ .section3 {
+     background: #D6DBDF;
+     color: #6C4BB9;
+     padding: 110px 90px;
+     border: 20px dotted #D2B4DE;
+     margin: 2px;
+
+ }
+
+ .header1 {
+     color: #984BB9;
+ }
+
+ .header2 {
+     color: #9A4BB9;
+ }
+
+ .header3 {
+     color: #8944A7;
+ }
